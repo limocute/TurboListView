@@ -1,6 +1,6 @@
 # turbolistview
 
-A Flutter ListView package.
+基于azlistview,实现自定义效果的indexbar
 
 ## Getting Started
 

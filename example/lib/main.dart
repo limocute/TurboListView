@@ -27,6 +27,8 @@ class _MyAppState extends State<MyApp> {
           PageInfo("City Select(Custom header)",
                   (ctx) => CitySelectCustomHeaderRoute()),
           PageInfo("Contacts List", (ctx) => ContactListRoute()),
+          PageInfo("Contacts List 列表头部显示悬浮标签", (ctx) => ContactListRoute2()),
+          PageInfo("Contacts List 自定义索引列表", (ctx) => ContactListRoute3()),
           PageInfo(
               "IndexBar & SuspensionView", (ctx) => IndexSuspensionRoute()),
         ]),

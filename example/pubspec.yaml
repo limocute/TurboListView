@@ -50,6 +50,7 @@ flutter:
 
   assets:
     - assets/images/avatar.png
+    - assets/images/ContactIndexShape.png
     - assets/data/china.json
     - assets/data/contacts.json
 
